@@ -1,44 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T21:00:04.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zzWvTffVdDUe37Q655sn" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T13:24:33.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="KegWKDSPULnQZM6ozNzM" version="14.6.3" type="github">
   <diagram id="QCvgfHrPSyRi4HTmFoVG" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="410" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-2" value="Sign In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-2" value="Sign In" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="40" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-3" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-3" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-5" value="SITE NAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-5" value="SITE NAME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-6" value="Add new image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-6" value="Add new image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-7" value="Searchbar&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-7" value="Searchbar&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-9" value="Name&lt;br&gt;Number of likes Comments Views" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-9" value="Name&lt;br&gt;Number of likes Comments Views" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="150" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="200" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-11" value="Name&lt;br&gt;Number of likes Comments Views" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-11" value="Name&lt;br&gt;Number of likes Comments Views" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="270" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="80" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JMT_-KIwj8DjP7dEy1pW-13" value="Name&lt;br&gt;Number of likes Comments Views" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMT_-KIwj8DjP7dEy1pW-13" value="Name&lt;br&gt;Number of likes Comments Views" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="150" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BnluyERel2iQrSp1O-q6-1" value="Home Page&amp;nbsp;&lt;br&gt;imgur inspiration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
